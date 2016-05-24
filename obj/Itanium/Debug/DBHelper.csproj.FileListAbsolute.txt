@@ -1,0 +1,9 @@
+E:\Project\DataBaseOper\DBHelper\bin\Itanium\Debug\DBHelper.dll
+E:\Project\DataBaseOper\DBHelper\bin\Itanium\Debug\DBHelper.pdb
+E:\Project\DataBaseOper\DBHelper\bin\Itanium\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Project\DataBaseOper\DBHelper\bin\Itanium\Debug\office.dll
+E:\Project\DataBaseOper\DBHelper\bin\Itanium\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Project\DataBaseOper\DBHelper\bin\Itanium\Debug\office.xml
+E:\Project\DataBaseOper\DBHelper\obj\Itanium\Debug\DBHelper.csproj.ResolveComReference.cache
+E:\Project\DataBaseOper\DBHelper\obj\Itanium\Debug\DBHelper.dll
+E:\Project\DataBaseOper\DBHelper\obj\Itanium\Debug\DBHelper.pdb
